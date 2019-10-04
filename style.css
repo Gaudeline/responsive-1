@@ -1,25 +1,23 @@
-@media only screen and (max-width: 300px) {
-    body {
-      background-color: rgb(150, 51, 51);
-      display: none;
-      font-size: 50%;
-      
+
+body {
+    background-color: rgb(150, 51, 51);
+    display: none;
+    font-size: 50%;
     }
-  }
-@media only screen and (min-width: 300px)and (max-width: 768px) {
+@media only screen and (min-width: 300px) {
     body {
-      background-color: rgb(12, 122, 80);
-      display: none;
-      font-size: 75%;
+    background-color: rgb(12, 122, 80);
+    display: none;
+    font-size: 75%;
     }
-  }
+}
 @media only screen and (min-width: 768px) {
     body {
-      background-color: rgb(12, 101, 117);
-      display: none;
-      font-size: 100%;
+    background-color: rgb(12, 101, 117);
+    display: none;
+    font-size: 100%;
     }
-  }
+}
 .small{
 
 }
